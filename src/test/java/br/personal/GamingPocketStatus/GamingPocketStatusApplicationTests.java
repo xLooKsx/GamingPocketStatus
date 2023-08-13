@@ -1,10 +1,10 @@
-package br.personal.GammingPocketStatus;
+package br.personal.GamingPocketStatus;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GammingPocketStatusApplicationTests {
+class GamingPocketStatusApplicationTests {
 
 	@Test
 	void contextLoads() {
